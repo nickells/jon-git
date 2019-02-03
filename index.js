@@ -3,3 +3,4 @@
 function log(arg){
   console.log('Rad', arg)
 }
+
