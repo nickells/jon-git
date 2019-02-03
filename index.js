@@ -1,5 +1,7 @@
 // This is the initial commit
 
-console.log('Cool!')
+function log(arg){
+  console.log('Cool', arg)
+}
 
-console.log('Rad!')
+log()
