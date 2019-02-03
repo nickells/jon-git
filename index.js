@@ -1,5 +1,9 @@
 // This is the initial commit
 
-console.log('Cool!')
+function log(arg){
+  console.log('Rad', arg)
+}
 
-console.log('Rad!')
+// This is a comment explaining my thought process
+
+// blah blah
